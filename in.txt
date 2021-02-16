@@ -1,0 +1,1 @@
+hello  now u can read any file using file module in js.
