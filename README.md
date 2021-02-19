@@ -1,10 +1,11 @@
 # file_modules
- here we are going to learn about filemodules in node.js</br>
-  *first we need to install node.js in our system.</br>
-  *after installing node.js, create a folder.</br>
-  *in the created folder create a .js file.</br>
-  *then write this code to read a file using filemodules in node.js</br>
-  
+ Here we are going to learn about filemodules in node.js</br>
+<ul>
+  <li>first we need to install node.js in our system.</li>
+  <li>after installing node.js, create a folder.</li>
+ <li>in the created folder create a .js file.</li>
+  <li>then write this code to read a file using filemodules in node.js</li>
+  </ul>
   ## code
   <pre>
   <code>
