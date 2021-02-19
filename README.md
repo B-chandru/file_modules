@@ -1,4 +1,4 @@
-# file_modules
+# file_write
 we are going to create a file with text using filemodules in node.js
 
 <pre>
