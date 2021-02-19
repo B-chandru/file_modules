@@ -1,9 +1,8 @@
 var fs=require("fs");
-fs.readFile("in.txt",(err,data)=>{
-    if(err){
-                console.log(err);
-            }else{
-                console.log(data.toString());
-           }  
 
+var write=fs.createWriteStream("hello.txt");
+write.write("hello how are you:)","utf-8");
+write.end;
+write.on("finish",()=>{
+    console.log("completed")
 })
