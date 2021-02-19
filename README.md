@@ -5,8 +5,8 @@
   <li>after installing node.js, create a folder.</li>
  <li>in the created folder create a .js file.</li>
   <li>then write this code to read a file using filemodules in node.js</li>
-</ul></br>
-# code
+</ul>
+<h2>code</h2>
   <pre>
   <code>
   var fs=require("fs")
